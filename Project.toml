@@ -1,0 +1,4 @@
+name = "PolyaGammaDistribution"
+uuid = "2c50cceb-c1d5-4a45-910a-9864e679c45b"
+authors = ["Jack Li <yli566@ucsc.edu>"]
+version = "0.1.0"
